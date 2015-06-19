@@ -1,28 +1,20 @@
-== README
+== Budget App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app will aggregate user bank accounts(Yodlee) and organize account data to organize budgets and recommend the user ways to optimize their budget.  User budget information will be used to generate leads for insurance(car, life, etc..) and mutual funds.
 
-Things you may want to cover:
+App to-do:
 
-* Ruby version
+* User should be able to create and login
 
-* System dependencies
+* User should be able to add bank accounts via Yodlee
 
-* Configuration
+* User should be able to see their current spending habits via bank account information
 
-* Database creation
+* User should be able create a budget
 
-* Database initialization
+* User should be able to upload budget information with excel
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+* more coming
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
